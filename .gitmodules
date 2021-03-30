@@ -1,3 +1,0 @@
-[submodule "argo-helm"]
-	path = argo-helm
-	url = https://github.com/jessebye/argo-helm
